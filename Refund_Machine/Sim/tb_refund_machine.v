@@ -79,7 +79,7 @@ end
 //* Instantiation *//  
 ////  
 
-//------------------------norefund_machine_inst------------------------  
+//------------------------refund_machine_inst------------------------  
 refund_machine refund_machine_inst(  
     .sys_clk (sys_clk),          // input sys_clk  
     .sys_rst_n (sys_rst_n),      // input sys_rst_n  
