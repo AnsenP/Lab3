@@ -1,0 +1,7 @@
+
+State Machine - |refund_machine|state
+Name state.ONEHALF state.ONE state.HALF state.IDLE 
+state.IDLE 0 0 0 0 
+state.HALF 0 0 1 1 
+state.ONE 0 1 0 1 
+state.ONEHALF 1 0 0 1 
