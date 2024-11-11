@@ -1,0 +1,73 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/FPGA_Laboratory/Lab3/NoRefund_Machine/Sim/questa
+T_opt
+!s110 1731236822
+V7fjDm:_LW66>M[chT5B>22
+04 19 4 work tb_norefund_machine fast 0
+=1-a029422e883a-673093d5-2e9-385c
+R0
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vnorefund_machine
+2C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL/norefund_machine.v
+!s110 1731236820
+!i10b 1
+!s100 R?B24ICTlFfGOJ`fjS]G^3
+IhONeza3YV8`<7G39VT5`O3
+R1
+w1731165818
+8C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL/norefund_machine.v
+FC:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL/norefund_machine.v
+!i122 0
+L0 1 83
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1731236820.000000
+!s107 C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL/norefund_machine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL|C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL/norefund_machine.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab3/NoRefund_Machine/RTL -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_norefund_machine
+2C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim/tb_norefund_machine.v
+!s110 1731236821
+!i10b 1
+!s100 ;87S[QAe69Mkh@9Rl^OYB1
+IIY=9_95MmA>RUNnL]1`Cb2
+R1
+w1731166004
+8C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim/tb_norefund_machine.v
+FC:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim/tb_norefund_machine.v
+!i122 1
+L0 2 82
+R3
+R4
+r1
+!s85 0
+31
+!s108 1731236821.000000
+!s107 C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim/tb_norefund_machine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim|C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim/tb_norefund_machine.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab3/NoRefund_Machine/Quartus_prj/../Sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
